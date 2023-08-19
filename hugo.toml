@@ -1,0 +1,78 @@
+DefaultContentLanguage = "en"
+author = "Le, Nhut-Nam"
+baseURL = "https://lnhutnam.github.io"
+copyright = "Copyright © 2023"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+hasCJKLanguage = true
+languageCode = "cn"
+theme = "hugo-theme-tokiwa"
+title = "Nam Le"
+
+[markup]
+[markup.highlight]
+style = "monokailight"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+bannerFont = "fonts/exampleFont" 
+description = """
+Wandering on Graph World.
+""" 
+env = "production" # for Google Analytics and DISQUS.
+favicon = "img/favicon-32x32.png" 
+fuse = true # for searchbox. "JSON" must added to output contents. See [outputs].
+math = true # for introducing $KaTEX$
+useChineseFonts = true 
+postDateFormat = "2006-1-2"
+
+[menu]
+# Shown in the side menu.
+[[menu.main]]
+identifier = "post"
+name = "Posts"
+url = "/post/"
+weight = 1
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
+weight = 2
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
+
+[[menu.main]]
+identifier = "Teaching"
+name = "Teaching"
+url = "/teaching/"
+weight = 4
+
+[[menu.main]]
+identifier = "Publication"
+name = "Publication"
+url = "/publication/"
+weight = 5
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[social]
+github = "http://github.com/lnhutnam"
+mail = "mailto:nam.lnhut@gmail.com"
+twitter = "http://twitter.com/lnhutnam"
+# any icon in layouts/partials/svg can be used by the name without the "-line.svg"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
