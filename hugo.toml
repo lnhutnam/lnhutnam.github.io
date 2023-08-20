@@ -17,7 +17,7 @@ style = "monokailight"
 unsafe = true
 
 [params]
-bannerFont = "fonts/exampleFont" 
+bannerFont = "fonts/exampleFont"
 description = """
 Wandering on Graph World.
 """ 
@@ -62,6 +62,18 @@ identifier = "Publication"
 name = "Publication"
 url = "/publication/"
 weight = 5
+
+[[menu.main]]
+identifier = "Mathematics"
+name = "Mathematics"
+url = "/mathematics/"
+weight = 6
+
+[[menu.main]]
+identifier = "Combinatorics"
+name = "Combinatorics"
+url = "/combinatorics/"
+weight = 7
 
 [taxonomies]
 category = "categories"
