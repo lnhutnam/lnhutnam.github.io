@@ -9,6 +9,4 @@ tags = ["combinatorics", "combinatorical optimization"]
 
 # Combinatorics
 
-2023
----
-- [2023-08-20] [Reading list & combinatorics resources.](/combinatoricsreading-list)
+- [2023-08-20] [Reading list & combinatorics resources.]({{< relref "readings/co-reading-list" >}})

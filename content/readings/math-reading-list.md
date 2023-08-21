@@ -1,7 +1,7 @@
 +++
-aliases = ["math-reading-list"]
 author = "Le, Nhut Nam"
 title = "Reading list & mathematics resources."
+url = '/mathematics/math-reading-list'
 date = "2023-08-19"
 description = "Reading list & mathematics resources."
 tags = [

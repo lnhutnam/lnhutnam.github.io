@@ -9,6 +9,4 @@ tags = ["math", "algebra", "analysis", "topology"]
 
 # Mathematics
 
-2023
----
-- [2023-08-20] [Reading list & mathematics resources.](/mathematics/reading-list)
+- [2023-08-20] [Reading list & mathematics resources.]({{< relref "readings/math-reading-list" >}})

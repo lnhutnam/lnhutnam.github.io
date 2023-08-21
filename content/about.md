@@ -43,9 +43,12 @@ In this site, he maintain some kind of works on his research things, good news a
 
 This site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. And theme which use for this site is under MIT LICENSE.
 
-This blog site is dedicated to sharing knowledge about graph and math. You are free to use and share the content on this site for personal or educational purposes, as long as you give proper credit to the original authors. The source code of this site is licensed under the MIT License, which means you can modify and distribute it as you wish, provided that you include the original license notice. However, please note that the content of this site is not intended for commercial use, and you should not sell or profit from it in any way. If you want to use this for educational or scholarly purposes, you can do so without any charge (but please let me know in advance); if you want to use this for business purposes, you can do so for a small fee. Please tell me clearly what you plan to do with this, and I will approve most requests.
+This blog site is dedicated to sharing knowledge about graph and math. You are free to use and share the content on this site for personal or educational purposes, as long as you give proper credit to the original authors. The source code of this site is licensed under the MIT License, which means you can modify and distribute it as you wish, provided that you include the original license notice. However, please note that the content of this site is not intended for commercial use, and you should not sell or profit from it in any way. If you want to use this for educational or scholarly purposes, you can do so without any charge (but please let the author knows in advance); if you want to use this for business purposes, you can do so for a small fee. Please contact and discuss clearly what you plan to do with this with the author, and the final decision will be made after that.
 
-## News (Academic Activities/ University Activities)
+
+## News
+
+This part will be updated with both good news, bad news and all kinds of news.
 
 - [01/07/2023] IPCV Project: Segmentation & classification problems in medical image processing systems.
 > Survey presentation (Vietnamese): <a href="https://drive.google.com/file/d/1Ff0JYtYSZGTJm-4ASPaFTafkTwLUhjF-/view?usp=drive_link" target="_blank">[Slide]</a>
