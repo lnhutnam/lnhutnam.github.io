@@ -11,14 +11,18 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        'sans': '"Source Han Sans SC", "Source Han Sans CN","Noto Sans CJK SC", "Noto Sans", -apple-system, "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB",  "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif',
+        // 'sans': '"Source Han Sans SC", "Source Han Sans CN","Noto Sans CJK SC", "Noto Sans", -apple-system, "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB",  "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif',
+        'sans': 'LatexFont',
         //For varible font usage sometimes
         // 'serif': '"Source Han Serif CN Variable", "Source Han Serif SC", "Source Han Serif CN","Noto Serif CJK SC", "Songti SC",  STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
-        'serif': '"Source Han Serif SC", "Source Han Serif CN","Noto Serif CJK SC", "Songti SC",  STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
-        'cursive': 'FancyTitleFont,"Source Han Serif SC", "Source Han Serif CN",  "Noto Serif CJK SC", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
-        'mono': "'Fira Code','Cascadia Code',Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New','Sarasa Mono SC','Noto Sans CJK SC','monospace', monospace"
-
+        // 'serif': '"Source Han Serif SC", "Source Han Serif CN","Noto Serif CJK SC", "Songti SC",  STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
+        'serif': 'LatexFont',
+        // 'cursive': 'FancyTitleFont,"Source Han Serif SC", "Source Han Serif CN",  "Noto Serif CJK SC", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
+        'cursive': 'LatexFont',
+        // 'mono': "'Fira Code','Cascadia Code',Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New','Sarasa Mono SC','Noto Sans CJK SC','monospace', monospace"
+        'mono': 'LatexFont',
       },
+
       minHeight: {
         '70vh': '70vh'
       },

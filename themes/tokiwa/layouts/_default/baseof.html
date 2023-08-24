@@ -36,7 +36,7 @@
 	{{ template "_internal/google_analytics.html" . }}
 	{{ end }}
 	{{ if or .Params.math .Site.Params.math }}
-	{{ partial "math.html" . }}
+	{{ partial "mathjax.html" . }}
 	{{ end }}
 	{{ if ne $.Site.LanguageCode "en"}}
 	<!--pangu.js-->
@@ -115,6 +115,15 @@
 				url('{{"fonts/noto-serif-sc-v7-latin_chinese-simplified-500.woff" | absURL }}') format('woff');
 			/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 		}
+
+		@font-face {
+			font-family: "LatexFont";
+			font-style: normal;
+			font-weight: 500;
+			font-display: swap;
+			src: url('{{ ( printf "%s%s" .Site.Params.latexFont ".woff2") | absURL }}') format('woff2'),
+				url('{{ ( printf "%s%s" .Site.Params.latexFont ".woff") | absURL }}') format('woff');
+		}		
 	</style>
 	{{ end }}
 </head>

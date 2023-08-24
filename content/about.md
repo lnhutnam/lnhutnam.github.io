@@ -11,18 +11,13 @@ author = "Le, Nhut-Nam"
 <img src="/images/avt/1675603010156.jpg" alt="LNNam"
 style="float:left; width:30%; height:30%; padding-right:10px; border-radius: 50%;">
 
-Lê Nhựt Nam (Vietnamese format) is a graduated Computer Science student with a Bachelor’s Degree in Computer Science from the <a href="https://en.hcmus.edu.vn/" target="_blank">University of Science, Vietnam National University, HCMC</a>. Currently, he is studying for a master's in Computer Sciences and Applied Mathematics (Double Master Programmes) at his university.
+I am currently graduated student in Computer Sciences and Applied Mathematics (Double Master Programmes) at <a href="https://en.hcmus.edu.vn/" target="_blank">University of Science, Vietnam National University, HCMC</a>.
 
-Currently, he’s working as a research student in <a href="https://www.fit.hcmus.edu.vn/~lnthanh/">Thanh Le</a>’s research group and working independently on his research topics. Beside that, he’s joining as a visiting lecturer for the Deperment of Computer Science, <a href="https://www.fit.hcmus.edu.vn/">Faculty of Information Technology at HCMUS</a>. For industry experience, he is working as an AI engineer, specialising in computer vision and digital image processing.
+Before joining graduated program, I received Bachelor’s Degree in Computer Science under the supervision of <a href="https://www.fit.hcmus.edu.vn/~lnthanh/">Thanh Le</a>.
 
-His interests are information geometry, combinatorial optimisation, and algorithms for optimisation. Furthermore, he also has a huge interest in theoretical computer science and mathematics. Summary of his research areas and interests:
-> Graph algorithms
+My main research field is graph mining. Furthermore, I also have a huge interest in theoretical computer science and mathematics: information geometry, combinatorics, and optimization algorithms.
 
-> Multi-relational data reasoning
-
-> Combinatorial optimization
-
-Favoriate quote:
+My favoriate quote:
 > "Complete disorder is impossible", Theodore S. Motzkin, Israeli-American mathematician, 1908 - 1970
 
 For contact information: <a href="../files/lnnam_curriculum_vitae.pdf" target="_blank" type="application/pdf">Curriculum Vitae </a>; <a href="https://dblp.org/pid/188/7634-4.html"> Dblp</a>; <a href="https://scholar.google.com/citations?user=Vw1yV3YAAAAJ&hl=en&authuser=2"> Google Scholar</a>; <a href="https://github.com/lnhutnam"> Github</a>; <a href="mailto:nam.lnhut@gmail.com"> nam.lnhut@gmail.com</a>
@@ -36,7 +31,7 @@ Current research topics:
 
 ## Contents
 
-In this site, he maintain some kind of works on his research things, good news and bad news from his own life.
+In this site, I maintain some kind of works on his research things, good news and bad news from his own life.
 
 
 ## Copyrights and licensing
@@ -112,7 +107,13 @@ This part will be updated with both good news, bad news and all kinds of news.
         </font>
     </details>
 
-- [07/08/2022] [Applied in Machine Learning - Master K31] <b>Optimization Methods and Regularization</b>. Presentation section: Gradient Descent with Momentum, Gradient Desent with Nesterov Accelerated Gradient; Optimization Experiment on Beale function for Gradient Desent Variants and Beyond (AdaGrad, AdaDelta, RMSProp, Adam); Second-Order Optimization Method (Newton's Method; Secant's Method and Quasi Newton Method) by <b>LE, Nhut-Nam</b>. <a href="{{ site.baseurl }}/files/HocMayUngDung-Slides-Presentation.pdf" target="_blank">[Slides]</a><a href="{{ site.baseurl }}/files/HocMayUngDung-FullReport.pdf" target="_blank">[Report]</a>
+- [07/08/2022] [Applied in Machine Learning - Master K31] <b>Optimization Methods and Regularization</b>. 
+<details><summary style="color:#7C4700">Project summary</summary>
+        <font color = "7C4700">
+           Some basic optimization method for ML was presented such as Gradient Descent with Momentum, Gradient Desent with Nesterov Accelerated Gradient; Optimization Experiment on Beale function for Gradient Desent Variants and Beyond (AdaGrad, AdaDelta, RMSProp, Adam); Second-Order Optimization Method (Newton's Method; Secant's Method and Quasi Newton Method) by <b>LE, Nhut-Nam</b>. <a href="{{ site.baseurl }}/files/HocMayUngDung-Slides-Presentation.pdf" target="_blank">[Slides]</a><a href="{{ site.baseurl }}/files/HocMayUngDung-FullReport.pdf" target="_blank">[Report]</a>
+        </font>
+    </details>
+
 
 - [07/08/2022] [Deep Learning Course - Master K31] <b>Knowledge Embedding Based Graph Convolution Network</b>. <a href="{{ site.baseurl }}/files/K31_Deep_Learning___Presentation.pdf" target="_blank">[Slides]</a>
 
