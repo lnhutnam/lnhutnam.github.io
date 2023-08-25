@@ -1,7 +1,7 @@
 +++
 author = "Le, Nhut Nam"
 title = "KHÁI LƯỢC LỊCH SỬ TOÁN HỌC"
-date = "2023-08-26"
+date = "2023-08-25"
 description = "Theo Pythagoras, số học thống trị vũ trụ này!"
 tags = [
     "history", "mathematics"

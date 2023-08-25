@@ -36,7 +36,7 @@
 	{{ template "_internal/google_analytics.html" . }}
 	{{ end }}
 	{{ if or .Params.math .Site.Params.math }}
-	{{ partial "mathjax.html" . }}
+	{{ partial "math.html" . }}
 	{{ end }}
 	{{ if ne $.Site.LanguageCode "en"}}
 	<!--pangu.js-->
@@ -117,12 +117,92 @@
 		}
 
 		@font-face {
-			font-family: "LatexFont";
+			font-family: "Latin Modern Mono";
 			font-style: normal;
-			font-weight: 500;
+    		font-weight: bold;
 			font-display: swap;
-			src: url('{{ ( printf "%s%s" .Site.Params.latexFont ".woff2") | absURL }}') format('woff2'),
-				url('{{ ( printf "%s%s" .Site.Params.latexFont ".woff") | absURL }}') format('woff');
+			src: url('{{"fonts/lmmono-bold.woff2" | absURL }}') format('woff2'),
+				/* Chrome 26+, Opera 23+, Firefox 39+ */
+				url('{{"fonts/lmmono-bold.woff" | absURL }}') format('woff');
+			/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+		}		
+
+		@font-face {
+			font-family: "Latin Modern Mono";
+			font-style: italic;
+    		font-weight: bold;
+			font-display: swap;
+			src: url('{{"fonts/lmmono-bolditalic.woff2" | absURL }}') format('woff2'),
+				/* Chrome 26+, Opera 23+, Firefox 39+ */
+				url('{{"fonts/lmmono-bolditalic.woff" | absURL }}') format('woff');
+			/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+		}		
+
+		@font-face {
+			font-family: "Latin Modern Mono";
+			font-style: italic;
+    		font-weight: normal;
+			font-display: swap;
+			src: url('{{"fonts/lmmono-italic.woff2" | absURL }}') format('woff2'),
+				/* Chrome 26+, Opera 23+, Firefox 39+ */
+				url('{{"fonts/lmmono-italic.woff" | absURL }}') format('woff');
+			/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+		}		
+
+		@font-face {
+			font-family: "Latin Modern Mono";
+			font-style: normal;
+    		font-weight: normal;
+			font-display: swap;
+			src: url('{{"fonts/lmmono.woff2" | absURL }}') format('woff2'),
+				/* Chrome 26+, Opera 23+, Firefox 39+ */
+				url('{{"fonts/lmmono.woff" | absURL }}') format('woff');
+			/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+		}		
+
+
+		@font-face {
+			font-family: "Latin Modern Roman";
+			font-style: normal;
+    		font-weight: bold;
+			font-display: swap;
+			src: url('{{"fonts/lmroman-bold.woff2" | absURL }}') format('woff2'),
+				/* Chrome 26+, Opera 23+, Firefox 39+ */
+				url('{{"fonts/lmroman-bold.woff" | absURL }}') format('woff');
+			/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+		}		
+
+		@font-face {
+			font-family: "Latin Modern Roman";
+			font-style: italic;
+    		font-weight: bold;
+			font-display: swap;
+			src: url('{{"fonts/lmroman-bolditalic.woff2" | absURL }}') format('woff2'),
+				/* Chrome 26+, Opera 23+, Firefox 39+ */
+				url('{{"fonts/lmroman-bolditalic.woff" | absURL }}') format('woff');
+			/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+		}		
+
+		@font-face {
+			font-family: "Latin Modern Roman";
+			font-style: italic;
+    		font-weight: normal;
+			font-display: swap;
+			src: url('{{"fonts/lmroman-italic.woff2" | absURL }}') format('woff2'),
+				/* Chrome 26+, Opera 23+, Firefox 39+ */
+				url('{{"fonts/lmroman-italic.woff" | absURL }}') format('woff');
+			/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+		}		
+
+		@font-face {
+			font-family: "Latin Modern Roman";
+			font-style: normal;
+    		font-weight: normal;
+			font-display: swap;
+			src: url('{{"fonts/lmroman.woff2" | absURL }}') format('woff2'),
+				/* Chrome 26+, Opera 23+, Firefox 39+ */
+				url('{{"fonts/lmroman.woff" | absURL }}') format('woff');
+			/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 		}		
 	</style>
 	{{ end }}

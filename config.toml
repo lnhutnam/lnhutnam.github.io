@@ -25,7 +25,7 @@ Wandering on Graph World. - Lang thang trên thế giới đồ thị.
 env = "production" # for Google Analytics and DISQUS.
 favicon = "images/favicon-32x32.png" 
 fuse = true # for searchbox. "JSON" must added to output contents. See [outputs].
-math = 'mathjax' # for introducing $KaTEX$
+math = true # for introducing $KaTEX$
 useChineseFonts = true 
 postDateFormat = "2006-1-2"
 mainSections = "post"
