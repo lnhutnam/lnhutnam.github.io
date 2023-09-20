@@ -77,6 +77,12 @@ name = "Combinatorics"
 url = "/combinatorics/"
 weight = 7
 
+[[menu.main]]
+identifier = "Project $N^2$ - WOG"
+name = "Project $N^2$ - WOG"
+url = "/n2l/"
+weight = 7
+
 [taxonomies]
 category = "categories"
 series = "series"

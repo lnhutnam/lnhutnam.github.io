@@ -27,7 +27,7 @@ Current research topics:
 - Link prediction on (static) knowledge graphs
 - Temporal knowledge graph completion & reasoning
 - Real-Time, Scalable & High performance multi-objects tracking
-- Project $N^2L$: Wandering on Graphs
+- [Project $N^2L$: Wandering on Graphs]({{< relref "n2l" >}})
 
 ## Contents
 
