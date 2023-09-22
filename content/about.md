@@ -20,7 +20,7 @@ My main research field is graph mining. Furthermore, I also have a huge interest
 My favoriate quote:
 > "Complete disorder is impossible", Theodore S. Motzkin, Israeli-American mathematician, 1908 - 1970
 
-For contact information: <a href="../files/lnnam_curriculum_vitae.pdf" target="_blank" type="application/pdf">Curriculum Vitae </a>; <a href="https://dblp.org/pid/188/7634-4.html"> Dblp</a>; <a href="https://scholar.google.com/citations?user=Vw1yV3YAAAAJ&hl=en&authuser=2"> Google Scholar</a>; <a href="https://github.com/lnhutnam"> Github</a>; <a href="mailto:nam.lnhut@gmail.com"> nam.lnhut@gmail.com</a>
+For contact information: <a href="../files/lnnam_curriculum_vitae.pdf" target="_blank" type="application/pdf">Curriculum Vitae </a>; <a href="https://dblp.org/pid/188/7634-4.html"> Dblp</a>; <a href="https://scholar.google.com/citations?user=Vw1yV3YAAAAJ&hl=en&authuser=2"> Google Scholar</a>; <a href="https://github.com/lnhutnam"> Github</a>; <a href="mailto:nam.lnhut@gmail.com"> nam [dot] lnhut [at] gmail [dot] com</a>
 
 
 Current research topics:

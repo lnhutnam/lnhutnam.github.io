@@ -78,10 +78,22 @@ url = "/combinatorics/"
 weight = 7
 
 [[menu.main]]
+identifier = "Miscellanea"
+name = "Miscellanea"
+url = "/miscellanea/"
+weight = 8
+
+[[menu.main]]
 identifier = "Project $N^2$ - WOG"
 name = "Project $N^2$ - WOG"
 url = "/n2l/"
-weight = 7
+weight = 9
+
+[[menu.main]]
+identifier = "Quotations"
+name = "Quotations"
+url = "/quotations/"
+weight = 10
 
 [taxonomies]
 category = "categories"
