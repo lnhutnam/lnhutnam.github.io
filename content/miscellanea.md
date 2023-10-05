@@ -50,3 +50,10 @@ author = "Le, Nhut-Nam"
 
 - Five Principles of Extraordinary Math Teaching
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ytVneQUA5-c?si=mh-gPGq6OHxrWAK7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- The map of Mathematics
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OmJ-4B-mS-Y?si=0Wgz04N6U3-m-vIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+- The map of Computer Science
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SzJ46YA_RaA?si=ZrUK1SFMz_ehQF3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

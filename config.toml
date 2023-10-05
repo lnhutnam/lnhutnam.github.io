@@ -95,6 +95,12 @@ name = "Quotations"
 url = "/quotations/"
 weight = 10
 
+[[menu.main]]
+identifier = "Le Nhut Nam Photography"
+name = "Le Nhut Nam Photography"
+url = "/photography/"
+weight = 10
+
 [taxonomies]
 category = "categories"
 series = "series"
