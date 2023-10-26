@@ -14,6 +14,11 @@ Some brief definitions:
 ## Personal research articles/ notes
 
 - [VN] [What're actually knowledge graphs?]({{< relref "research/what_knowledge_graphs" >}})
+- Current research topics on knowledge graphs
+- Knowledge graphs for Artificial Intelligence systems
+- Knowledge graph applications
+- Recent technical challenges
+
 
 ## Surveys
 
@@ -34,6 +39,24 @@ Some brief definitions:
 
 ## Temporal knowledge graphs completion and reasoning
 
+- Wang, J., Lin, X., Huang, H., Ke, X., Wu, R., You, C., & Guo, K. (2023). GLANet: temporal knowledge graph completion based on global and local information-aware network. Applied Intelligence, 1-17.
+- Li, M., Sun, Z., Zhang, W., & Liu, W. (2023). Leveraging semantic property for temporal knowledge graph completion. Applied Intelligence, 53(8), 9247-9260.
+- Yu, M., Guo, J., Yu, J., Xu, T., Zhao, M., Liu, H., ... & Yu, R. (2023). TBDRI: block decomposition based on relational interaction for temporal knowledge graph completion. Applied Intelligence, 53(5), 5072-5084.
+- He, P., Zhou, G., Zhang, M., Wei, J., & Chen, J. (2023). Improving temporal knowledge graph embedding using tensor factorization. Applied Intelligence, 53(8), 8746-8760.
+- Jia, Y., Lin, M., Wang, Y., Li, J., Chen, K., Siebert, J., ... & Liao, Q. (2023). Extrapolation over temporal knowledge graph via hyperbolic embedding. CAAI Transactions on Intelligence Technology.
+- Liu, W., Wang, P., Zhang, Z., & Liu, Q. (2023). Multi-Scale Convolutional Neural Network for Temporal Knowledge Graph Completion. Cognitive Computation, 15(3), 1016-1022.
+- Ma, R., Mei, B., Ma, Y., Zhang, H., Liu, M., & Zhao, L. (2023). One-shot relational learning for extrapolation reasoning on temporal knowledge graphs. Data Mining and Knowledge Discovery, 1-18.
+- Bai, L., Chen, M., Zhu, L., & Meng, X. (2023). Multi-hop temporal knowledge graph reasoning with temporal path rules guidance. Expert Systems with Applications, 223, 119804.
+- Wan, G., Zhou, Z., Zheng, Z., & Du, B. (2023). Sub-Entity Embedding for inductive spatio-temporal knowledge graph completion. Future Generation Computer Systems.
+- Nie, H., Zhao, X., Yao, X., Jiang, Q., Bi, X., Ma, Y., & Sun, Y. (2023). Temporal-structural importance weighted graph convolutional network for temporal knowledge graph completion. Future Generation Computer Systems, 143, 30-39.
+- Xie, Z., Zhu, R., Liu, J., Zhou, G., & Huang, J. X. (2023). TARGAT: A Time-Aware Relational Graph Attention Model for Temporal Knowledge Graph Embedding. IEEE/ACM Transactions on Audio, Speech, and Language Processing.
+- Wang, X., Lyu, S., Wang, X., Wu, X., & Chen, H. (2023). Temporal knowledge graph embedding via sparse transfer matrix. Information Sciences, 623, 56-69.
+- Hou, X., Ma, R., Yan, L., & Ma, Z. (2023). T-GAE: A Timespan-Aware Graph Attention-based Embedding Model for Temporal Knowledge Graph Completion. Information Sciences, 119225.
+- Bai, L., Yu, W., Chai, D., Zhao, W., & Chen, M. (2023). Temporal knowledge graphs reasoning with iterative guidance by temporal logical rules. Information Sciences, 621, 22-35.
+- Bai, L., Chai, D., & Zhu, L. (2023). RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism. Knowledge-Based Systems, 269, 110514.
+- Shao, P., He, J., Li, G., Zhang, D., & Tao, J. (2023). Hierarchical Graph Attention Network for Temporal Knowledge Graph Reasoning. Neurocomputing, 126390.
+- Liu, R., Yin, G., Liu, Z., & Zhang, L. (2023). PTKE: Translation-based temporal knowledge graph embedding in polar coordinate system. Neurocomputing, 529, 80-91.
+- Xu, C., Nayyeri, M., Chen, Y. Y., & Lehmann, J. (2022). Geometric Algebra Based Embeddings for Static and Temporal Knowledge Graph Completion. IEEE Transactions on Knowledge and Data Engineering, 35(5), 4838-4851.
 
 
 ## Complex & logical query on knowledge graphs
