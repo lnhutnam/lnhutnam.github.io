@@ -1,5 +1,5 @@
 +++
-title = "Le Nhut Nam Photography"
+title = "Photography"
 date = "2023-10-05"
 aliases = ["photography"]
 author = "Le, Nhut-Nam"

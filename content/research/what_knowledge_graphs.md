@@ -3,7 +3,6 @@ author = "Le, Nhut Nam"
 title = "Đồ thị tri thức thực sự là gì? - What're actually knowledge graphs?"
 url = '/research/what_knowledge_graphs'
 date = "2023-10-26"
-description = "Định nghĩa thực sự đồ thị tri thức là gì?"
 tags = [
     "knowledge graphs", "knowledge model", "ontology"
 ]

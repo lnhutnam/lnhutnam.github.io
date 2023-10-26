@@ -37,14 +37,10 @@ identifier = "post"
 name = "Posts"
 url = "/post/"
 weight = 1
+
 [[menu.main]]
 name = "Tags"
 url = "/tags/"
-weight = 2
-
-[[menu.main]]
-name = "Categories"
-url = "/categories/"
 weight = 2
 
 [[menu.main]]
@@ -72,18 +68,6 @@ url = "/mathematics/"
 weight = 6
 
 [[menu.main]]
-identifier = "Combinatorics"
-name = "Combinatorics"
-url = "/combinatorics/"
-weight = 7
-
-[[menu.main]]
-identifier = "Miscellanea"
-name = "Miscellanea"
-url = "/miscellanea/"
-weight = 8
-
-[[menu.main]]
 identifier = "Project $N^2$ - WOG"
 name = "Project $N^2$ - WOG"
 url = "/n2l/"
@@ -96,8 +80,8 @@ url = "/quotations/"
 weight = 10
 
 [[menu.main]]
-identifier = "Le Nhut Nam Photography"
-name = "Le Nhut Nam Photography"
+identifier = "Photography"
+name = "Photography"
 url = "/photography/"
 weight = 10
 
