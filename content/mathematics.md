@@ -10,10 +10,3 @@ tags = ["math", "algebra", "analysis", "topology"]
 # Mathematics
 
 - [2023-08-20] [Reading list & mathematics resources.]({{< relref "readings/math-reading-list" >}})
-
-## Pure Mathematics
-
-1. Fundamental analysis
-2. 
-
-## Applied Mathematics
