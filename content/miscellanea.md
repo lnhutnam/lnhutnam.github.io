@@ -8,6 +8,9 @@ author = "Le, Nhut-Nam"
 ## Advices
 
 - [Advice to a Young Mathematician](https://people.math.osu.edu/harper.903/advice_to_a_young_mathematician_atiyah.pdf)
+- [Advice for the budding theorist](https://windowsontheory.org/2015/11/03/advice-for-the-budding-theorist/)
+- [Non-technical or less-technical writings and talks](https://www.boazbarak.org/informal/)
+- [Career advice](https://terrytao.wordpress.com/career-advice/)
 
 
 ## Links
@@ -57,3 +60,15 @@ author = "Le, Nhut-Nam"
 
 - The map of Computer Science
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzJ46YA_RaA?si=ZrUK1SFMz_ehQF3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Youtube channles
+
+[1] [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+
+[2] [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+
+[3] [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+
+[4] [Computer Science Theory Explained](https://www.youtube.com/@compscilessons)
+
+[5] [The Math District](https://www.youtube.com/@TheMathDistrict)

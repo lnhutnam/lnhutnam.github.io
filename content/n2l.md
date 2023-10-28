@@ -76,3 +76,7 @@ Some brief definitions:
 - Liu, X., Zhao, S., Su, K., Cen, Y., Qiu, J., Zhang, M., ... & Tang, J. (2022, August). Mask and reason: Pre-training knowledge graph transformers for complex logical queries. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 1120-1130).
 - Huang, Z., Chiang, M. F., & Lee, W. C. (2022, August). Line: Logical query reasoning over hierarchical knowledge graphs. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 615-625).
 - Ren, H., Dai, H., Dai, B., Chen, X., Zhou, D., Leskovec, J., & Schuurmans, D. (2022, August). Smore: Knowledge graph completion and multi-hop reasoning in massive knowledge graphs. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 1472-1482).
+
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PZBm7M0HGzw?si=ZduyTLLTbprBeMfO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
