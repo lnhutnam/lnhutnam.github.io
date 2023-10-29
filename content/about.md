@@ -26,8 +26,10 @@ For contact information: <a href="../files/lnnam_curriculum_vitae.pdf" target="_
 Current research topics:
 - Link prediction on (static) knowledge graphs
 - Temporal knowledge graph completion & reasoning
-- Real-Time, Scalable & High performance multi-objects tracking
-- [Project $N^2L$: Wandering on Graphs]({{< relref "n2l" >}})
+- Object detection algorithms (YOLO, Faster-RCNN), Tracking Algorithms.
+
+Current research projects:
+- [Project: Wandering on Graphs]({{< relref "n2l" >}})
 
 ## Contents
 

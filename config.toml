@@ -1,3 +1,4 @@
+# disqusShortname = 'nhutnamle'
 DefaultContentLanguage = "en"
 author = "Le, Nhut-Nam"
 baseURL = "https://lnhutnam.github.io"
@@ -68,8 +69,8 @@ url = "/mathematics/"
 weight = 6
 
 [[menu.main]]
-identifier = "Project $N^2$ - WOG"
-name = "Project $N^2$ - WOG"
+identifier = "WOG Project"
+name = "WOG Project"
 url = "/n2l/"
 weight = 9
 

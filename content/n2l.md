@@ -1,5 +1,5 @@
 +++
-title = "Project $N^2$: Wandering on Graph"
+title = "Wandering on Graph Project"
 date = "2023-08-19"
 aliases = ["n2l-project","namln-wog",]
 author = "Le, Nhut-Nam"
@@ -18,6 +18,7 @@ Some brief definitions:
 - Knowledge graphs for Artificial Intelligence systems
 - Knowledge graph applications
 - Recent technical challenges
+- [EN] [Knowledge Graphs @ ICLR 2024 on Early submissions]({{< relref "projects/n2l/kg-iclr2024s" >}})
 
 
 ## Surveys
