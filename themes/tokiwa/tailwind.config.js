@@ -24,9 +24,9 @@ module.exports = {
         // 'serif': '"Source Han Serif SC", "Source Han Serif CN","Noto Serif CJK SC", "Songti SC",  STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
         'serif': 'BeVietnamPro',
         // 'cursive': 'FancyTitleFont,"Source Han Serif SC", "Source Han Serif CN",  "Noto Serif CJK SC", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
-        'cursive': 'BeVietnamPro',
+        'cursive': 'BeVietnamPro-Light',
         // 'mono': "'Fira Code','Cascadia Code',Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New','Sarasa Mono SC','Noto Sans CJK SC','monospace', monospace"
-        'mono': 'BeVietnamPro',
+        'mono': 'BeVietnamPro-Thin',
       },
 
       minHeight: {

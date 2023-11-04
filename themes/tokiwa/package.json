@@ -40,6 +40,7 @@
     "webpack-plugin-serve": "^1.6.0"
   },
   "dependencies": {
-    "latex-tailwind": "^2.2.0"
+    "latex-tailwind": "^2.2.0",
+    "mathjax": "^3.2.2"
   }
 }

@@ -301,6 +301,21 @@ a {
     src: url("../../static/fonts/BeVietnamPro-Regular.ttf");
 }
 
+@font-face {
+    font-family: "BeVietnamPro-Light";
+    src: url("../../static/fonts/BeVietnamPro-Light.ttf");
+}
+
+@font-face {
+    font-family: "BeVietnamPro-Thin";
+    src: url("../../static/fonts/BeVietnamPro-Thin.ttf");
+}
+
+@font-face {
+    font-family: "BeVietnamPro-Black";
+    src: url("../../static/fonts/BeVietnamPro-Black.ttf");
+}
+
 @supports (-webkit-backdrop-filter:none) or (backdrop-filter:none) {
     .bg-opacity-custom {
         -webkit-backdrop-filter: blur(3px);
