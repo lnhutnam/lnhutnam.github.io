@@ -1,6 +1,11 @@
 module.exports = {
   purge: false, //in postcss.config.js
   theme: {
+    latex: {
+      footnotes: true,
+      syntax: true,
+    },
+
     textIndent: { // defaults to {}
       '1': '1rem',
       '2': '2rem',
@@ -9,18 +14,19 @@ module.exports = {
       'default': '0 2px 5px rgba(0, 0, 0, 0.5)',
       'lg': '0 2px 10px rgba(0, 0, 0, 0.5)',
     },
+    
     extend: {
       fontFamily: {
         // 'sans': '"Source Han Sans SC", "Source Han Sans CN","Noto Sans CJK SC", "Noto Sans", -apple-system, "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB",  "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif',
-        'sans': 'Latin Modern Roman',
+        'sans': 'BeVietnamPro',
         //For varible font usage sometimes
         // 'serif': '"Source Han Serif CN Variable", "Source Han Serif SC", "Source Han Serif CN","Noto Serif CJK SC", "Songti SC",  STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
         // 'serif': '"Source Han Serif SC", "Source Han Serif CN","Noto Serif CJK SC", "Songti SC",  STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
-        'serif': 'Latin Modern Roman',
+        'serif': 'BeVietnamPro',
         // 'cursive': 'FancyTitleFont,"Source Han Serif SC", "Source Han Serif CN",  "Noto Serif CJK SC", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif',
-        'cursive': 'Latin Modern Roman',
-        'mono': "'Fira Code','Cascadia Code',Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New','Sarasa Mono SC','Noto Sans CJK SC','monospace', monospace"
-        // 'mono': 'Latin Modern Roman',
+        'cursive': 'BeVietnamPro',
+        // 'mono': "'Fira Code','Cascadia Code',Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New','Sarasa Mono SC','Noto Sans CJK SC','monospace', monospace"
+        'mono': 'BeVietnamPro',
       },
 
       minHeight: {
@@ -169,6 +175,7 @@ module.exports = {
     },
   },
   variants: {},
+  plugins: [require("latex-tailwind")],
   // plugins: [
   //   require('@tailwindcss/typography'),
   //   // ...

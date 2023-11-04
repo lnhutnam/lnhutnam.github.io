@@ -295,6 +295,12 @@ a {
 //     src: url('/fonts/GlowSansSC-Extended-Light.woff2') format('woff2'),
 //         /* Chrome 26+, Opera 23+, Firefox 39+ */
 // }
+
+@font-face {
+    font-family: "BeVietnamPro";
+    src: url("../../static/fonts/BeVietnamPro-Regular.ttf");
+}
+
 @supports (-webkit-backdrop-filter:none) or (backdrop-filter:none) {
     .bg-opacity-custom {
         -webkit-backdrop-filter: blur(3px);
