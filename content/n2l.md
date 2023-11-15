@@ -19,6 +19,11 @@ Some brief definitions:
 - Knowledge graph applications
 - Recent technical challenges
 - [EN] [Knowledge Graphs @ ICLR 2024 on Early submissions]({{< relref "projects/n2l/kg-iclr2024s" >}})
+- [EN] (Readings) [Accepted papers related to Knowledge Graphs @ ICLR 2023]({{< relref "projects/n2l/kg-iclr2023" >}}) 
+- [EN] (Readings) [Accepted papers related to Knowledge Graphs + Computer Vision in 2023]({{< relref "projects/n2l/kg-cv2023" >}}) 
+- [EN] (Readings) [Accepted papers related to Knowledge Graphs + Data Mining in 2023]({{< relref "projects/n2l/kg-dm2023" >}})
+- [EN] (Readings) [Accepted papers related to Knowledge Graphs @ ICLR 2022]({{< relref "" >}})
+- [EN] (Readings) [Accepted papers related to Knowledge Graphs @ ICLR 2021]({{< relref "" >}}) 
 
 
 ## Surveys
