@@ -3,7 +3,7 @@ author = "Le, Nhut Nam"
 title = "Knowledge Graphs - Submissions in ICLR 2024 (Continue)"
 date = "2023-10-29"
 url = '/projects/n2l/kg-iclr2024s'
-description = "Early submissions related Knowledge Graphs @ ICLR 2024"
+description = "Early submissions related to Knowledge Graphs @ ICLR 2024"
 tags = [
     "knowledge graphs", "temporal data", "transferability", "beyond knowledge graphs"
 ]
