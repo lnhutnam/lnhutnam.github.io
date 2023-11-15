@@ -88,3 +88,7 @@ Chúng ta cần:
 - Thống nhất phiên bản tập dữ liệu thực nghiệm
 - Thống nhất việc sử dụng các tập train, val, và test
 
+
+**Tài liệu tham khảo**
+
+[1] Gastinger, J., Sztyler, T., Sharma, L., Schuelke, A., & Stuckenschmidt, H. (2023, September). Comparing Apples and Oranges? On the Evaluation of Methods for Temporal Knowledge Graph Forecasting. In Joint European Conference on Machine Learning and Knowledge Discovery in Databases (pp. 533-549). Cham: Springer Nature Switzerland.
