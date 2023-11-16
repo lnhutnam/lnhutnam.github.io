@@ -13,14 +13,14 @@ style="float:left; width:30%; height:30%; padding-right:10px; border-radius: 50%
 
 I am currently graduated student in Computer Sciences and Applied Mathematics (Double Master Programmes) at <a href="https://en.hcmus.edu.vn/" target="_blank">University of Science, Vietnam National University, HCMC</a>.
 
-Before joining graduated program, I received Bachelor’s Degree in Computer Science under the supervision of <a href="https://www.fit.hcmus.edu.vn/~lnthanh/">Thanh Le</a>.
+Before joining graduated program, I received Bachelor’s Degree in Computer Science and was fortunate to be advised by <a href="https://www.fit.hcmus.edu.vn/~lnthanh/">Thanh Le</a>.
 
-My main research field is graph mining. Furthermore, I also have a huge interest in theoretical computer science and mathematics: information geometry, combinatorics, and optimization algorithms.
+My main research field is graph mining, especially knowledge graph completion. Furthermore, I also have a huge interest in theoretical computer science and mathematics.
 
 My favoriate quote:
 > "Complete disorder is impossible", Theodore S. Motzkin, Israeli-American mathematician, 1908 - 1970
 
-For contact information: <a href="../files/lnnam_curriculum_vitae.pdf" target="_blank" type="application/pdf">Curriculum Vitae </a>; <a href="https://dblp.org/pid/188/7634-4.html"> Dblp</a>; <a href="https://scholar.google.com/citations?user=Vw1yV3YAAAAJ&hl=en&authuser=2"> Google Scholar</a>; <a href="https://github.com/lnhutnam"> Github</a>; <a href="mailto:nam.lnhut@gmail.com"> nam [dot] lnhut [at] gmail [dot] com</a>
+For contact information: <a href="../files/CV.pdf" target="_blank" type="application/pdf">Curriculum Vitae </a>; <a href="https://dblp.org/pid/188/7634-4.html"> Dblp</a>; <a href="https://scholar.google.com/citations?user=Vw1yV3YAAAAJ&hl=en&authuser=2"> Google Scholar</a>; <a href="https://github.com/lnhutnam"> Github</a>; <a href="mailto:nam.lnhut@gmail.com"> nam [dot] lnhut [at] gmail [dot] com</a>
 
 
 Current research topics:
