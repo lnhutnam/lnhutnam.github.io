@@ -298,6 +298,17 @@ Dưới đây là các biểu đồ hiệu suất được tính toán bởi Lib
 
 ## Các phương pháp tiếp cận khác
 
+Mặc dù các đặc trưng nội tại (features intrinsic) của một mạng lưới có thể cung cấp một độ đo tốt để chỉ rằng khả năng liên kết trong tương lai, có nhiều phương pháp/ độ đo khác cũng được đề xuất mà sử dụng một biến thể của những heuristic được đề cập. Lấy ví dụ, các đặc trưng Extra-network có thể cải thiện đáng kể độ chính xác của dự đoán (tức là những từ hóa mô tả sự quan tâm của mỗi nhà khoa học, hay những từ khóa được rút trích từ tựa đề/ tóm tắt của bài báo của họ).
+
+Hoặc xét theo đặc trưng thời gian của mạng, đồ thị mạng xã hội có thể được chia thành các chuỗi đồ thị khác nhau theo một bước thời gian nhất định. Đường trung bình động (moving average) là giá trị trung bình của giá trị phỏng đoán cho một cạnh trong một khoảng thời gian nhất định [13]. Bằng cách nhìn vào mức trung bình này qua nhiều thế hệ tiến hóa, người ta có thể đưa ra những dự đoán liên kết rất chính xác.
+
+
+Hơn nữa, vấn đề dự đoán liên kết được nghiên cứu trong khung học có giám sát (supervised learning framework) bằng cách coi nó như một thể hiện của bài toán phân lớp nhị phân (binary classification problem). Các phương pháp này sử dụng các biện pháp tô-pô (topological) và ngữ nghĩa (semantic) được xác định giữa các nút làm đặc trưng cho các bộ phân lớp. Đưa ra một ảnh chụp nhanh (snapshots) của mạng xã hội tại thời điểm $t$ để huấn luyện, chúng coi tất cả các liên kết có mặt tại thời điểm $t$ là mẫu dương (positive samples) và coi một mẫu lớn các liên kết vắng mặt (cặp nút không được kết nối) tại thời điểm $t$ là mẫu âm (negative samples). Các bộ phân lớp đã học thực hiện nhất quán trên tất cả các tập dữ liệu, không giống như các phương pháp heuristic không nhất quán, mặc dù độ chính xác của dự đoán vẫn rất thấp [14].
+
+
+Có một số lý do cho độ chính xác dự đoán thấp này. Một trong những lý do chính là độ lệch lớp rất lớn liên quan đến dự đoán liên kết. Trong các mạng lớn, không có gì lạ khi xác suất liên kết trước đó ở mức $10^{−4}$ trở xuống, điều này khiến cho vấn đề dự đoán trở nên rất khó khăn, dẫn đến hiệu suất kém. Ngoài ra, khi mạng phát triển theo thời gian, các liên kết tiêu cực tăng trưởng theo phương trình bậc hai trong khi các liên kết tích cực chỉ phát triển tuyến tính với các nút mới.
+
+
 **Tài liệu tham khảo**
 
 [1] [http://www.cs.rpi.edu/~zaki/PaperDir/SNDA11.pdf](http://www.cs.rpi.edu/~zaki/PaperDir/SNDA11.pdf)
@@ -308,15 +319,22 @@ Dưới đây là các biểu đồ hiệu suất được tính toán bởi Lib
 
 [4] Link Prediction in Complex Networks by Multi Degree Preferential-Attachment Indices - Ke Hu, Ju Xiang
 
+[5] arxiv.org/abs/1111.4570 - Four Degrees of Separation
+
+[6] Computationally Efficient Link Prediction in a Variety of Social Networks - MICHAEL FIRE, LENA TENENBOIM-CHEKINA, RAMI PUZIS, OFRIT LESSER,
+
+[7] M. E. J. Newman. Clustering and preferential attachment in growing networks. Physical Review E, 64(025102), 2001.
+
 [8] Robustness of Link-prediction Algorithm Based on Similarity and Application to Biological Networks - Liang Wang, Ke Hu and Yi Tang
 
 [9] A Link Prediction Approach to Recommendations in Large-Scale User-Generated Content Systems - Nitin Chiluka, Nazareno Andrade, and Johan Pouwelse
 
 [10] Scalable Proximity Estimation and Link Prediction in Online Social Networks - Han Hee Song Tae Won Cho Vacha Dave Yin Zhang Lili Qiu
 
-<script>
-    pseudocode.renderElement(document.getElementById("quicksort"));
-</script>
-<script>
-    pseudocode.renderClass("pseudocode");
-</script>
+[11] Using Friendship Ties and Family Circles for Link Prediction - Elena Zheleva and Lise Getoor
+
+[12] Link Prediction and Recommendation across Heterogeneous Social Networks - Yuxiao Dong, Jie Tang, et al
+
+[13] The Algorithm of Link Prediction on Social Network - Liyan Dong Yongli Li, Han Yin, Huang Le, and Mao Rui1
+
+[14] Learning Algorithms for Link Prediction Based on Chance Constraints - Janardhan Rao Doppa ,JunYu
