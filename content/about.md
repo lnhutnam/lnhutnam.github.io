@@ -22,6 +22,8 @@ My favoriate quote:
 
 For contact information: <a href="../files/CV.pdf" target="_blank" type="application/pdf">Curriculum Vitae </a>; <a href="https://dblp.org/pid/188/7634-4.html"> Dblp</a>; <a href="https://scholar.google.com/citations?user=Vw1yV3YAAAAJ&hl=en&authuser=2"> Google Scholar</a>; <a href="https://github.com/lnhutnam"> Github</a>; <a href="mailto:nam.lnhut@gmail.com"> nam [dot] lnhut [at] gmail [dot] com</a>
 
+Me on social networks: <a rel="me" href="https://mathstodon.xyz/@namln">Mastodon</a>, <a href="https://twitter.com/lnhutnam">Twitter</a>
+
 
 Current research topics:
 - Link prediction on (static) knowledge graphs
