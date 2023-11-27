@@ -24,6 +24,148 @@
 \author{Borui Cai et al}
 \maketitle
 
+\section{What?}
 
+This paper is a survey paper which proposes a new taxonomy of existing TKGC methods based
+on how the temporal validity of facts is integrated for link prediction.
+
+\section{Why?}
+
+Many existing surveys are focusing make discussion about dynamic graph link prediction tasks,
+and rarely discuss techniques specifically designed for the multi-relational knowledge graphs.
+
+\section{How?}
+
+
+$\mathcal{G} = \{\mathcal{E}, \mathcal{R}, \mathcal{T}, \mathcal{D}\}$
+where:
+\begin{itemize}
+    \item $\mathcal{E}, \mathcal{R}, \mathcal{T}$ are the sets of entities, relations, and timestamps, respectively.
+    \item $\mathcal{D} \in \mathcal{E} \times \mathcal{R} \times \mathcal{E} \times \mathcal{D}$ is the collection of facts con-
+    tained in the knowledge graph.
+\end{itemize}
+
+A fact can be donated as $(h, r, t, \tau )$
+
+A factual score function, $q(s)$
+
+Negative sampling methods 
+
+
+The collection of negative samples generated from $s$, can be donated as $\bar{\mathcal{D}}_{s}$
+
+Loss function aim to minimizing $q(s)$, and maximizing $q(s')$
+
+Type of loss function:
+\begin{itemize}
+    \item The margin ranking loss.
+    \item The cross-entropy loss.
+    \item The binary cross-entropy loss.
+\end{itemize}
+
+Evaluation protocol:
+\begin{itemize}
+    \item MRR 
+    \item MR 
+    \item Hits@K
+\end{itemize}
+
+\subsection{Time-included Tensor Decomposition}
+
+This method expresses a knowledge graph as a 4-way tensor, and earns latent representations by
+tensor decomposition/factorization techniques.
+
+\begin{itemize}
+    \item Canonical Polyadic Decomposition
+    \begin{itemize}
+        \item T-SimplE adopts CP decomposition to decomposes KG 4-way tensor.
+        \item TNTComplEx uses complex-valued representation vector in order to adapts with asymmetric relations.
+        \item TeLM moves beyond complex valued representations and learns multivector representations with CP decomposition.
+    \end{itemize}
+    \item Tucker Decomposition
+    \begin{itemize}
+        \item TuckERTNT adopts the Tucker decomposition, more flexible (embedding dimension is relaxed)
+    \end{itemize}
+\end{itemize}
+
+\subsection{Time-based transformation}
+
+\begin{itemize}
+    \item Synthetic Time-dependent Relation
+    \begin{itemize}
+        \item TTransE
+        \item SpliME
+        \item Ta-TransE
+        \item 3DRTE
+    \end{itemize}
+    \item Linear Transformation
+    \begin{itemize}
+        \item HyTE
+        \item Hybrid-TE
+        \item TDG2E
+        \item TeRo
+        \item ChronoR
+        \item ToKE
+    \end{itemize}
+\end{itemize}
+
+\subsection{Dynamic embedding}
+
+\begin{itemize}
+    \item Representations as Functions of Time
+    \begin{itemize}
+        \item ATiSE
+        \item DyERNIE
+        \item DE-SimplE
+        \item BoxTE
+    \end{itemize}
+    \item Representations as Hidden States of RNN
+    \begin{itemize}
+        \item Know-Evolve
+        \item TeMP
+    \end{itemize}
+\end{itemize}
+
+\subsection{Learning from knowledge graph snapshots}
+
+\begin{itemize}
+    \item Markov Process Models
+    \begin{itemize}
+        \item RTFE
+        \item DBKGE
+    \end{itemize}
+    \item Autoregressive Models
+    \begin{itemize}
+        \item RE-NET
+        \item RE-GCN
+        \item EvoKG
+        \item NLSM
+        \item TANGO
+    \end{itemize}
+\end{itemize}
+
+\subsection{Reasoning with historical context}
+
+\begin{itemize}
+    \item Attention-based Relevance
+    \begin{itemize}
+        \item xERTE
+        \item T-GAP
+    \end{itemize}
+    \item Heuristic-based Relevance
+    \begin{itemize}
+        \item TPmod
+        \item CyGNet
+    \end{itemize}
+\end{itemize}
+
+\subsection{Temporal logical rules}
+
+\begin{itemize}
+    \item AnyBURL
+    \item StreamLearner
+    \item TLogic
+    \item TLmod
+\end{itemize}
 
 \end{document}
