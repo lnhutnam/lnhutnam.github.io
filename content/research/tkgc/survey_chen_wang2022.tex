@@ -1,0 +1,153 @@
+\documentclass[12pt]{article}
+
+\usepackage{fullpage}
+\usepackage{amsmath,amssymb,amsfonts,amsthm}
+
+\usepackage{ebgaramond}
+\usepackage[cmintegrals,cmbraces]{newtxmath}
+\usepackage{ebgaramond-maths}
+
+\usepackage{braket}
+\DeclareMathOperator{\cas}{cas}
+\newcommand{\trans}[1]{\ensuremath{{#1}^\intercal}}
+
+\usepackage{color}
+
+\setlength\parskip{2mm}
+
+\usepackage{hyperref}
+\usepackage[style=authoryear,backend=bibtex]{biblatex} %backend tells biblatex what you will be using to process the bibliography file
+\addbibresource{refs.bib}
+
+\begin{document}
+\title{A Survey on Temporal Knowledge Graphs-Extrapolation and Interpolation Tasks}
+\author{Sulin Chen, and Jingbin Wang}
+\maketitle
+
+\section{What?}
+
+This paper provided a comprehensive study of temporal knowledge graph, discussing the main existing temporal models and techniques
+which divided into extrapolation tasks and interpolation tasks. 
+
+\section{Why?}
+
+The traditional KGE methods do not consider the time factor. And in the real world, data always involves larger and larger 
+through the time. These old method get hard to expand on the new scenarios.
+
+\section{How?}
+
+TKG: $\{(e_i, r, e_j, t)\}$
+
+In context of learning and KGC, entities and relationships of the KG undergo dynamic modifications over time.
+
+
+\subsection{Backgrounds}
+
+Temporal point processes can be represented based on the conditional strength function $\lambda(t)$ as stochastic model of the 
+next event time given all previous events,
+
+\begin{equation}
+    \lambda(t)dt := \mathbf{P}\{eventin[t, t + dt] \mid T(t)\} = \mathbf{E}[dN(t) \mid T(t)]
+\end{equation}
+where:
+\begin{itemize}
+    \item $\lambda(t)dt$ the conditional probability of observing an event in a small window given the history up to $t$.
+    \item A small window $ = [t, t + dt]$.
+    \item The history up to $t$, i.e, $T(t) := \{t_{\tau} < t\}$.
+    \item $dt$ is a small window of size which only one event can occur, i.e, $dN(t) \in \{0, 1\}$.
+\end{itemize}
+
+The conditional density of the event occurring at moment $t$ is defined as:
+
+\begin{equation}
+    h(t) = \lambda(t)S(t)
+\end{equation}
+where:
+\begin{itemize}
+    \item $S(t)$ is the conditional probability that no event occurs.
+\end{itemize}
+
+\subsection{Extrapolation .vs Interpolation}
+
+Extrapolation and interpolation are both used to estimate hypothetical values for a variable based on other observations.
+\begin{itemize}
+    \item In interpolation setting, we could use our model to predict/ estimate the value of the dependent variable for an 
+    independent variable that in our data.
+    \item In extrapolation setting, we could use our model to predict/ estimate the value of the dependent variable for an 
+    independent variable that is outside the range of our data.
+\end{itemize}
+
+\textbf{Note that}: In extrapolation, we are making the assumption that our observed trend continues for values in the outside 
+the range we used to form our model.
+
+\subsection{Temporal knowledge graphs - Extrapolation setting}
+
+\subsubsection{Temporal point process}
+
+The combination of temporal point process and deep networks to procedure neural point process which demonstrated 
+powerful capabilities.
+\begin{itemize}
+    \item Know-Evolve (\cite{trivedi2017know})
+    \item DeRep
+\end{itemize}
+
+\subsubsection{Time series models}
+
+\begin{itemize}
+    \item RE-Net
+    \item CyGNet
+    \item HIPNET
+    \item CluSTeR
+    \item DySAT
+    \item TemporalGAT
+    \item FTAG
+    \item xERTE
+\end{itemize}
+
+\subsubsection{Others}
+
+\begin{itemize}
+    \item TGAT
+\end{itemize}
+
+\subsection{Temporal knowledge graphs - Interpolation setting}
+
+\subsubsection{Translational distance model}
+
+\begin{itemize}
+    \item t-TransE, TTransE are based on TransE model.
+    \item HyTE is based on TransH model.
+\end{itemize}
+
+\subsubsection{Semantic matching model}
+
+\begin{itemize}
+    \item TComplEx
+    \item TIMEPLEX
+    \item TeLM
+\end{itemize}
+
+\subsubsection{Neural network model}
+
+\begin{itemize}
+    \item TeMP
+\end{itemize}
+
+\subsubsection{Relational rotation model}
+
+\begin{itemize}
+    \item TeRo
+    \item ChronoR
+\end{itemize}
+
+\subsubsection{Hyperbolic geometric model}
+
+\begin{itemize}
+    \item DyERNIE (\cite{han2020dyernie})
+    \item HERCULES ()
+\end{itemize}
+
+\nocite{*}
+\printbibliography
+
+\end{document}
