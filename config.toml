@@ -69,8 +69,8 @@ url = "/mathematics/"
 weight = 6
 
 [[menu.main]]
-identifier = "WOG Project"
-name = "WOG Project"
+identifier = "Project"
+name = "Project"
 url = "/n2l/"
 weight = 9
 
@@ -84,6 +84,12 @@ weight = 10
 identifier = "Photography"
 name = "Photography"
 url = "/photography/"
+weight = 10
+
+[[menu.main]]
+identifier = "Resources"
+name = "Resources"
+url = "/resources/"
 weight = 10
 
 [taxonomies]

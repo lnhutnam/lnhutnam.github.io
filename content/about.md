@@ -8,7 +8,7 @@ author = "Le, Nhut-Nam"
 
 ## Preface
 
-<img src="/images/avt/1675603010156.jpg" alt="LNNam"
+<img src="/images/avt/avt_5.jpg" alt="LNNam"
 style="float:left; width:30%; height:30%; padding-right:10px; border-radius: 50%;">
 
 I am currently graduated student in Computer Sciences and Applied Mathematics (Double Master Programmes) at <a href="https://en.hcmus.edu.vn/" target="_blank">University of Science, Vietnam National University, HCMC</a>.

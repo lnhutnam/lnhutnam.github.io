@@ -6,6 +6,28 @@ aliases = ["teaching","teaching-lnnam"]
 author = "Le, Nhut-Nam"
 +++
 
+## Spring 2024
+
+Data mining and its applications
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2024
+
+> Grading and preparing course assignments.
+
+Introduction to Artificial Intelligence
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2024
+
+> Grading and preparing course assignments.
+
+Applied in Data Science
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2024
+
+> Grading and preparing course assignments.
+
+Data hiding and secret sharing
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2024
+
+> Grading course assignments.
+
 ## Autumn-Winter 2023
 
 Introduction to Machine Learning
@@ -19,7 +41,12 @@ Graph Mining
 > Grading and preparing course assignments.
 
 Parallel Programming
-> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2022
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2023
+
+> Grading and preparing final projects materials for students.
+
+Data structures and algorithms
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2023
 
 > Grading and preparing final projects materials for students.
 
@@ -43,6 +70,11 @@ Data visualization
 
 > Grading and preparing final projects materials for students.
 
+Introduction to Bigdata
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2023
+
+> Grading and preparing final projects materials for students.
+
 
 ## Fall 2022
 
@@ -62,6 +94,11 @@ Introduction to Data Science
 > Grading and preparing final projects and lab homework materials for students.
 
 Introduction to Information Technology
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2022
+
+> Grading and preparing final projects and lab homework materials for students.
+
+Introduction to Programming 1
 > Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2022
 
 > Grading and preparing final projects and lab homework materials for students.
