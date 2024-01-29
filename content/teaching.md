@@ -28,7 +28,7 @@ Data hiding and secret sharing
 
 > Grading course assignments.
 
-## Autumn-Winter 2023
+## Fall 2023
 
 Introduction to Machine Learning
 > Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2023
