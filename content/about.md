@@ -8,7 +8,7 @@ author = "Le, Nhut-Nam"
 
 ## Preface
 
-<img src="/images/avt/avt_5.jpg" alt="LNNam"
+<img src="/images/avt/114420940_p0.jpg" alt="avt"
 style="float:left; width:30%; height:30%; padding-right:10px; border-radius: 50%;">
 
 I am currently graduated student in Computer Sciences and Applied Mathematics (Double Master Programmes) at <a href="https://en.hcmus.edu.vn/" target="_blank">University of Science, Vietnam National University, HCMC</a>.
@@ -35,7 +35,12 @@ Current research projects:
 
 ## Contents
 
-In this site, I maintain some kind of works on his research things, good news and bad news from his own life.
+In this site, I maintain some kind of works on his research things, good news and bad news from his own life. Currently, I am writting/ maintancing:
+- [Mathematics]({{< relref "mathematics" >}})
+- [Research projects related to Graphs & its applications]({{< relref "n2l" >}})
+- [Collection of favoriate quotes]({{< relref "quotations" >}})
+- [Randomized photography]({{< relref "photography" >}})
+- [Useful resource sharing]({{< relref "resources" >}})
 
 
 ## Copyrights and licensing

@@ -2,7 +2,7 @@
 DefaultContentLanguage = "en"
 author = "Le, Nhut-Nam"
 baseURL = "https://lnhutnam.github.io"
-copyright = "Copyright © 2023"
+copyright = "Copyright © 2024"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 hasCJKLanguage = true
@@ -62,35 +62,6 @@ name = "Publication"
 url = "/publication/"
 weight = 5
 
-[[menu.main]]
-identifier = "Mathematics"
-name = "Mathematics"
-url = "/mathematics/"
-weight = 6
-
-[[menu.main]]
-identifier = "Project"
-name = "Project"
-url = "/n2l/"
-weight = 9
-
-[[menu.main]]
-identifier = "Quotations"
-name = "Quotations"
-url = "/quotations/"
-weight = 10
-
-[[menu.main]]
-identifier = "Photography"
-name = "Photography"
-url = "/photography/"
-weight = 10
-
-[[menu.main]]
-identifier = "Resources"
-name = "Resources"
-url = "/resources/"
-weight = 10
 
 [taxonomies]
 category = "categories"

@@ -26,3 +26,7 @@ author = "Le, Nhut-Nam"
 [4] slstatus is a status monitor for window managers that use WM_NAME or stdin to fill the status bar. 
 
 [5] st is a simple terminal implementation for X. 
+
+## Slide 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTzutqsce8wrkJjUSuTlQdp_QSyiZNDQVpYBNrC5kXUhjaT54KROttGgi9f79PIMRmP5bWvphWV3Mlu/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
