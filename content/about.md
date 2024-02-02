@@ -24,7 +24,6 @@ For contact information: <a href="../files/CV.pdf" target="_blank" type="applica
 
 Me on social networks: <a rel="me" href="https://mathstodon.xyz/@namln">Mastodon</a>, <a href="https://twitter.com/lnhutnam">Twitter</a>
 
-
 Current research topics:
 - Link prediction on (static) knowledge graphs
 - Temporal knowledge graph completion & reasoning
@@ -32,6 +31,9 @@ Current research topics:
 
 Current research projects:
 - [Project: Wandering on Graphs]({{< relref "n2l" >}})
+
+Profile pictures/ Artworks:
+> ArtWork by: [big radish](https://www.pixiv.net/en/artworks/114420940)
 
 ## Contents
 
@@ -69,6 +71,7 @@ This part will be updated with both good news, bad news and all kinds of news.
             we use a GTX 1050 Nvidia graphics card. The FPS can be improved with a stronger graphics card. <a href="https://drive.google.com/file/d/1znNLRTkMRDTEG3gvXXOYWbPBjsdbtc5I/view?usp=share_link" target="_blank">[Slide]</a><a href="https://drive.google.com/file/d/1EAH9UoXMQ3VofE6dHrAMNyae_xZ2NI4d/view?usp=share_link" target="_blank">[Report]</a><a href="https://drive.google.com/file/d/1LIM_pwAJocEF3cZsVyskLxkYHbWAsrGq/view?usp=share_link" target="_blank">[Proposal]</a>
         </font>
     </details>
+
 - [01/04/2023] Project: <a href="https://github.com/m32us/RL4MRD" target="_blank">Quasi-Hyperbolic Momentum Optimization for Multi-hop Knowledge Graph Reasoning based on Fourier-Knowledge Graph Embedding & Reinforcement Learning</a>. 
 <details><summary style="color:#7C4700">Project summary</summary>
         <font color = "7C4700">
@@ -81,6 +84,7 @@ This part will be updated with both good news, bad news and all kinds of news.
             experimental data sets and re-experimented the results of the original paper.
         </font>
     </details>
+
 - [01/04/2023] Graph Partition Algorithms open-source project. I and my co-worker Tran X. Loc, Nguyen B. Long implement some popular graph partition algorithms such as Breadth First Search (BFS), Kerninghan-Lin (KL) algorithm, Fiduccia-Mattheyses (FM) algorithm, and Spectral Bisection.
 <details><summary style="color:#7C4700">Project summary</summary>
         <font color = "7C4700">
@@ -88,6 +92,7 @@ This part will be updated with both good news, bad news and all kinds of news.
             Although it is a challenging problem, finding a partition that makes graph analysis easier has applications in scientific computing. In this project, we provide a Python programming language implementation for a few well-known graph partitioning techniques.
         </font>
     </details>
+
 - [04/11/2022] As co-authors of the article <b>"Knowledge Graph Embedding by Relational Rotation and Complex Convolution for Link Prediction"</b>, we are happy to hear that our final version, which includes full bibliographic details, is now available online. Furthermore, Expert Systems with Applications provides a Share Link, a personalized URL that provides 50 days of free access to the article, to assist other authors in accessing and sharing our work. Anyone who clicks on this link before December 23, 2022, will be directed to the final version of your article on ScienceDirect, which they may read or download. There is no need to sign up, register, or pay any fees. <a href="https://authors.elsevier.com/c/1g14O3PiGTLsCU" target="_blank">https://authors.elsevier.com/c/1g14O3PiGTLsCU</a>
 
 - [21/10/2022] Our paper <b>"Knowledge Graph Embedding by Relational Rotation and Complex Convolution for Link Prediction"</b>. Thanh Le, <b>Nam Le</b> and Bac Le. Accepted at <i>Journal Expert Systems With Applications</i> (Impact Factor of 8.665, CiteScore of 12.20)
@@ -108,6 +113,7 @@ This part will be updated with both good news, bad news and all kinds of news.
             Finally, we prove that type constraints can help increase the model’s overall performance, especially on complex and large datasets.
         </font>
     </details>
+    
 - [10/08/2022] [Deep Learning Course - Master K31] [Semniar Project Kaggle AI4Code] <b>Optimization Techniques for Transformers</b>. Presenter: <b>LE, Nhut Nam</b>. <a href="{{ site.baseurl }}/files/AI4Code_Seminar-1.pdf" target="_blank">[Slides]</a>
 <details><summary style="color:#7C4700">Project summary</summary>
         <font color = "7C4700">
