@@ -32,9 +32,6 @@ Current research topics:
 Current research projects:
 - [Project: Wandering on Graphs]({{< relref "n2l" >}})
 
-Profile pictures/ Artworks:
-> ArtWork by: [big radish](https://www.pixiv.net/en/artworks/114420940)
-
 ## Contents
 
 In this site, I maintain some kind of works on his research things, good news and bad news from his own life. Currently, I am writting/ maintancing:
@@ -44,6 +41,8 @@ In this site, I maintain some kind of works on his research things, good news an
 - [Randomized photography]({{< relref "photography" >}})
 - [Useful resource sharing]({{< relref "resources" >}})
 
+List profiles/ artist that I borrow art images:
+> Profile artWork by: [big radish](https://www.pixiv.net/en/artworks/114420940)
 
 ## Copyrights and licensing
 
