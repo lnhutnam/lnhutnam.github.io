@@ -64,9 +64,6 @@ trong đó, $f_{\theta}^{(.)} = f_{\theta}^{(ind)}$ khi thiết lập là học 
 
 Đối với thiết lập học không giám sát, ta hoàn toàn có thể thay thế bằng dữ liệu không có nhãn $\mathcal{D}^{(ind)} = \\{c_u, G_j\\}_{i=1}^K$, và thay thế hàm mất mát và hàm $f(c_i, G_i)$ sao cho phù hợp.
 
-## Động lực nghiên cứu
-
-
 ## Định nghĩa và phát biểu thống nhất
 
 <div style="padding: 6px; color: black; background-color: white; border: black 2px solid;"> <span style="color:dodgerblue"> Định nghĩa 1. (Tổng quát tấn công đối kháng trên dữ liệu đồ thị - General Adversarial Attack on Graph Data)
