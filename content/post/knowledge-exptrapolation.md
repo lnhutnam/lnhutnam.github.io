@@ -150,17 +150,31 @@ Các phương pháp mã hóa các thực thể chưa biết từ các nguồn th
 
 **Bàn luận 2: Khai thác thông tin trong tập support**
 
+Nhiều thể loại thông tin có thể được khai thác để xây dựng các tập support cho các thành phần chưa biết, bao gồm các bộ ba dữ kiện, mô tả ngữ cảnh, và bản thể học (ontologies). Chúng ta sẽ lần lượt xem xét từng thể loại một.
 
+Đầu tiên, các bộ ba dữ kiện, mà cung cấp thông tin cấu trúc, một kiểu trực quan của thông tin hỗ trợ cho các thành phần chưa biết bởi chúng thường xuất hiện với những thành phần khác trong dạng thức của một bộ ba dữ kiện thay vì đứng một mình. Tri thức từ những thành phần đă biết được cung cấp bởi các bộ ba mà có thể sử dụng bởi các thành phần chưa biết.
+
+Bên cạnh đó, thông tin mô tả ngữ cảnh cũng phổ biến cho KG bởi vì nhiều KG được xây dựng từ dữ liệu văn bản. Mô tả ngữ cảnh có thể cung cấp một cách tự nhiên khả năng ngoại suy đến cho những thành phần chưa biết, và thường được sử dụng trong các bộ mã hóa văn bản để biến đổi văn bản thành các embeddings.
+
+Cuối cùng, bản thế học (ontologies) thường được sử dụng như tri thức tiên nghiệm (prior knowledge) về mối tương quan giữa các thành phần đã biết và chưa biết, và được sử dụng giải quyết các quan hệ chưa biết trong nhiều trong trình hiện nay. Một ontology thường được thể hiện như một đồ thị bao gồm các quan hệ phân cấp và ràng buộc trên các miền và khoảng quan hệ. Embedding của các quan hệ chưa biết có thể được phát sinh bằng cách sử dụng một phương pháp dựa trên ontology mà sử dụng nhiều kỹ thuật bao gồm GAN hay disentangled representation learning.
 
 ## Các định hướng tương lai
 
 **Định hướng 1: Khai thác vào các ứng dụng**
 
+Hầu hết các phương pháp ngoại suy tri thức hiện nay được đánh giá dựa trên bài toán dự đoán liên kết trên các tập kiểm tra. Mặc dù tác vụ dự đoán liên kết có thể cho thấy tính hiệu quả của mô hình và giúp đồ thị tri thức hoàn thiện, nó cũng có giá trị để khám phát cách để phát sinh những thành phần chưa biết của KG trong nhiều ứng dụng như: answering logical queries expressed in a subset of first-order logic; entity alignment task under the growing KG; question answering; ...
+
 **Định hướng 2: Thông tin hỗ trợ đa thể thức**
+
+Đồ thị tri thức đa thể thức (Multi-modal knowledge graphs) là một trong những chủ đề nghiên cứu được đề cập nhiều trong thời gian gần đây. Trong khi nhiều phương pháp ngoại suy tri thức tập trung vào việc sử dụng ngôn ngữ tự nhiên như trong tin hỗ trợ cho các thành phần chưa biết, thì có tương đối ít các công trình giải quyết vấn đề tiềm năng của việc sử dụng thông tin thị giác. 
 
 **Định hướng 3: Ngoại suy thực thể và quan hệ**
 
+Các nghiên cứu hiện tại trên vấn đề ngoại suy tập trung chủ yếu vào việc giải quyết ngoại suy thực thể và quan suy quan hệ một cách hoàn toàn độc lập, nhưng trong nhiều ứng dụng thực tế, các thực thể và quan hệ chưa biết có thể xuất hiện một cách đồng thời. Một lời giải khả thi ở đây là các phương pháp tích hợp một cách hiệu quả cả ngoại suy thực thể và quan hệ.
+
 **Định hướng 4: Thiết lập động và lifelong**
+
+Trong nhiều ứng dụng thực tế, một số KG bao gồm các ràng buộc thời gian mà thỏa mãn một số xem xét về thông tin thời gian khi mà đánh giá điểm cho một bộ ba nào đó. Đồ thị tri thức động cũng đối mặt với thách thức về việc xuất hiện của các thành phần bởi vì bản chất động của nó. Để giải quyết vấn đề này, nhiều công trình định nghĩa một bài toán về ngoại suy thực thể trong đồ thị động và sử dụng các kỹ thuật để thu được các embedding cho các thực thể chưa biết.
 
 **Tài liệu tham khảo**
 

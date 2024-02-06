@@ -52,7 +52,7 @@ hr {
 
 hr.double-line {
     border-top: 3px double theme('colors.fun-blue.400');
-    text-align: center;
+    text-align: justify;
     border-bottom: none;
 }
 
@@ -379,7 +379,7 @@ details.toc {
         border-bottom: 1px dotted #fff;
         margin-top: 0.8em;
         margin-bottom: 0.4em;
-        text-align: center;
+        text-align: justify;
     }
 
     hr:after {
@@ -449,7 +449,7 @@ $mobile-breakpoint: $menu-width + $container-max-width * 1.2 + $toc-width !defau
         float: left;
         margin: 0;
         width: 100%;
-        text-align: center;
+        text-align: justify;
     }
 
     .sidenote-checkbox:not(:checked)+.sidenote {
