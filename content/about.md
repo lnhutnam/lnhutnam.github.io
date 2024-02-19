@@ -25,12 +25,10 @@ For contact information: <a href="../files/CV.pdf" target="_blank" type="applica
 Me on social networks: <a rel="me" href="https://mathstodon.xyz/@namln">Mastodon</a>, <a href="https://twitter.com/lnhutnam">Twitter</a>
 
 Current research topics:
-- Link prediction on (static) knowledge graphs
-- Temporal knowledge graph completion & reasoning
+- Statics & temporal Knowledge graphs completion.
+- [Reinforcement Learning]({{< relref "rl" >}}) and [Explainble Reinforcement Learning (XRL)]({{< relref "xrl" >}}).
+- [Uncertainty in Machine Learning]({{< relref "uncertainty" >}}).
 - Object detection algorithms (YOLO, Faster-RCNN), Tracking Algorithms.
-
-Current research projects:
-- [Project: Wandering on Graphs]({{< relref "n2l" >}})
 
 ## Contents
 
