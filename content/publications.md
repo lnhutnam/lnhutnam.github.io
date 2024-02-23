@@ -29,9 +29,7 @@ Updating...
     a result, this thesis provides an overview of association prediction problems as well
     as knowledge graphs, approaches, and applications. Translation-distance geometry,
     semantic matching, and artificial neural network-based techniques are the three main
-    strategies mentioned.
-
-    The adaptive convolution in ConvR model and recalibration mechanism, were
+    strategies mentioned. The adaptive convolution in ConvR model and recalibration mechanism, were
     used to build the proposed ACRM model, a method based on convolutional neural
     networks, to tackle the link prediction problem. The model addressed the issue that
     channels using the local receptacle field were unable to use context information from

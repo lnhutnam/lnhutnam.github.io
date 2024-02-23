@@ -8,6 +8,16 @@ author = "Le, Nhut-Nam"
 
 ## Spring 2024
 
+Introduction to Machine Learning
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2024
+
+> Grading and preparing course assignments.
+
+Data visualization
+> Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2024
+
+> Grading and preparing course assignments.
+
 Data mining and its applications
 > Undergraduate course, *University of Science, Vietnam National University - Ho Chi Minh City*, Department of Computer Science, Faculty of Information Technology, 2024
 
