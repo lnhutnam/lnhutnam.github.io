@@ -12,11 +12,9 @@ toc = true
 <img src="/images/avt/114420940_p0.jpg" alt="avt"
 style="float:left; width:30%; height:30%; padding-right:10px; border-radius: 50%;">
 
-I am currently graduated student in Computer Sciences and Applied Mathematics (Double Master Programmes) at <a href="https://en.hcmus.edu.vn/" target="_blank">University of Science, Vietnam National University, HCMC</a>. In CS Graduated Programme, I was fortunate to be advised by **<a href="https://www.fit.hcmus.edu.vn/~lhbac/">Prof. PhD Le Hoai Bac</a>**.
+I currently studying graduated programme in **Computer Sciences** and **Applied Mathematics** (*two distinguished Master programmes*) at the University of Science, Vietnam National University, HCMC. In the Computer Science Graduate Program. I have the privilege of being mentored by **<a href="https://www.fit.hcmus.edu.vn/~lhbac/">Prof. PhD. Le Hoai Bac</a>**. Prior to my graduate studies, I earned my Bachelor's Degree in Computer Science, with guidance from **<a href="https://www.fit.hcmus.edu.vn/~lnthanh/">Mr. Le Ngoc Thanh</a>** on the topic of *knowledge graph completion based on neural networks*. 
 
-Before joining graduated program, I received Bachelor’s Degree in Computer Science and was fortunate to be advised by **<a href="https://www.fit.hcmus.edu.vn/~lnthanh/">Mr. Le Ngoc Thanh</a>**.
-
-My main research field is graph mining, especially knowledge graph and its related problems (completion, and reasoning). Furthermore, I also have a huge interest in theoretical computer science and mathematics (optimization).
+My primary research focus is on **graph mining**, particularly in the area of knowledge graphs, including challenges related to completion and reasoning. In addition to this, I possess a deep interest in theoretical computer science—covering areas such as *graph theory* and *distributed theory*—as well as in mathematics, where my passions lie in *mathematical programming, numerical methods, and topics related to probability*.
 
 My favoriate quote:
 > "Complete disorder is impossible", Theodore S. Motzkin, Israeli-American mathematician, 1908 - 1970
@@ -54,17 +52,12 @@ Furthermore, I also maintance some Github Organization:
 List profiles/ artist that I borrow art images:
 > Profile artWork by: [big radish](https://www.pixiv.net/en/artworks/114420940)
 
-Beside researching and programming, I also like watching anime, reading books, and listening to music, and drink beer =)).
-
-<p align="center">
-  <img src="https://animerantshome.files.wordpress.com/2023/06/elaina-04.gif"/>
-</p>
 
 ## Copyrights and licensing
 
 This site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. And theme which use for this site is under MIT LICENSE.
 
-This blog site is dedicated to sharing knowledge about graph and math. You are free to use and share the content on this site for personal or educational purposes, as long as you give proper credit to the original authors. The source code of this site is licensed under the MIT License, which means you can modify and distribute it as you wish, provided that you include the original license notice. However, please note that the content of this site is not intended for commercial use, and you should not sell or profit from it in any way. If you want to use this for educational or scholarly purposes, you can do so without any charge (but please let the author knows in advance); if you want to use this for business purposes, you can do so for a small fee. Please contact and discuss clearly what you plan to do with this with the author, and the final decision will be made after that.
+This blog is dedicated to enriching the knowledge of its readers about graphs and mathematics. The content here is available for personal and educational use, with the condition that proper attribution is given to the original creators. This site's source code is available under the MIT License, allowing for modifications and redistribution, provided the original license notice is included. It's important to note, however, that the materials provided on this site are not meant for commercial exploitation. Any use of this content for educational or scholarly purposes is welcomed at no cost—though we do ask that you inform the author beforehand. Should you wish to leverage this content for business purposes, a nominal fee will apply. We encourage open communication about your intentions, and a final decision will be made following our discussion. The content I've authored draws from scientific papers, ebooks, and other blog posts, and I strongly recommend engaging with these sources. Should any issues arise, please feel free to reach out via email for a prompt discussion.
 
 ## Softwares & Tools
 
