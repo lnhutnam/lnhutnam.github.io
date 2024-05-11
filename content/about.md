@@ -9,7 +9,7 @@ toc = true
 
 ## General information & Contact
 
-<img src="/images/avt/114420940_p0.jpg" alt="avt"
+<img src="/images/avt/115761253_p2_master1200.jpg" alt="avt"
 style="float:left; width:30%; height:30%; padding-right:10px; border-radius: 50%;">
 
 I currently studying graduated programme in **Computer Sciences** and **Applied Mathematics** (*two distinguished Master programmes*) at the University of Science, Vietnam National University, HCMC. In the Computer Science Graduate Program. I am fortunately supervised by **<a href="https://www.fit.hcmus.edu.vn/~lhbac/">Prof. PhD. Le Hoai Bac</a>**. Prior to my graduate studies, I earned my Bachelor's Degree in Computer Science, with the supervision from **<a href="https://www.fit.hcmus.edu.vn/~lnthanh/">Mr. Le Ngoc Thanh</a>** on the topic of *knowledge graph completion based on neural networks*. 
