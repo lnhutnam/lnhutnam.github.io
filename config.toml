@@ -3,6 +3,15 @@ title = "lnnam"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 5
+    ordered = false
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
@@ -12,9 +21,17 @@ languageCode = "en-us"
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
-  name = "about/"
+  name = "~/about/"
   url = "about/"
 
   [[params.navlinks]]
-  name = "posts/"
+  name = "~/posts/"
   url = "posts/"
+
+  [[params.navlinks]]
+  name = "~/research/"
+  url = "research/"
+
+  [[params.navlinks]]
+  name = "~/teaching/"
+  url = "teaching/"

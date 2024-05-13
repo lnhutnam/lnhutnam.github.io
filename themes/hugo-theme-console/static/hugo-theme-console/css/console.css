@@ -288,14 +288,14 @@ figure {
     --toc-width: 20rem;
     --container-max-width: 45rem;
     --mobile-breakpoint: calc(var(--menu-width) + var(--container-max-width) * 1.2 + var(--toc-width));
-  }
-  
-  /* Styles */
-  .sidenote-checkbox {
+}
+
+/* Styles */
+.sidenote-checkbox {
     display: none;
-  }
-  
-  .sidenote {
+}
+
+.sidenote {
     margin-top: 0;
     font-size: 0.9rem;
     line-height: 1.25em;
@@ -308,37 +308,58 @@ figure {
     padding-left: var(--padding-16);
     padding-top: var(--padding-8);
     padding-bottom: var(--padding-8);
-  }
-  
-  .sidenote .sidenote-content {
+}
+
+.sidenote .sidenote-content {
     font-weight: 400;
     letter-spacing: 0.33px;
-  }
-  
-  .sidenote-label:not(:hover) + * + .sidenote:hover {
+}
+
+.sidenote-label:not(:hover) + * + .sidenote:hover {
     background-color: rgb(0, 114, 245);
-  }
+}
   
-  @media (max-width: var(--mobile-breakpoint)) {
-    .sidenote-label {
-      cursor: pointer;
-      text-decoration: underline dashed;
-    }
-  
-    .sidenote {
-      display: block;
-      float: left;
-      margin: 0;
-      width: 100%;
-      text-align: justify;
-    }
-  
-    .sidenote-checkbox:not(:checked) + .sidenote {
-      display: none;
-    }
-  }
-  
-  .sidenote-label:hover + * + .sidenote {
+@media (max-width: var(--mobile-breakpoint)) {
+.sidenote-label {
+    cursor: pointer;
+    text-decoration: underline dashed;
+}
+
+.sidenote {
+    display: block;
+    float: left;
+    margin: 0;
+    width: 100%;
+    text-align: justify;
+}
+
+.sidenote-checkbox:not(:checked) + .sidenote {
+    display: none;
+}
+}
+
+.sidenote-label:hover + * + .sidenote {
     text-decoration: underline;
-  }
+}
+
+/* ToC - Author: Robbi Nespu */
+.toc {
+    border: .15rem solid #757575;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1em;
+    color: #757575;
+}
+.toc-header {
+    color: #757575;
+    font-size: 1.5rem;
+}
+#TableOfContents > ul {
+    list-style-type: none;
+    padding-left: 1em;
+}
+#TableOfContents > ul > li ul {
+    list-style-type: none;
+    padding-left: 1em;
+}
 
