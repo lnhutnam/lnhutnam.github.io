@@ -11,12 +11,12 @@ toc = true
 <img src="/images/avt/115761253_p2_master1200.jpg" alt="avt"
 style="float:left; width:30%; height:30%; padding-right:10px; border-radius: 50%;">
 
-I currently studying graduated programme in **Computer Sciences** and **Applied Mathematics** (_two distinguished Master programmes_) at the [University of Science](https://en.hcmus.edu.vn/), [Vietnam National University, HCMC](https://vnuhcm.edu.vn/). In the Computer Sciences graduated programme, I have fortunately supervised by [Prof. PhD. Le Hoai Bac](https://www.fit.hcmus.edu.vn/~lhbac/) on the topic of reasoning on temporal knowledge graphs.
+I currently studying graduated programme in **Computer Sciences** and **Applied Mathematics** (_two distinguished Master programmes_) at the [University of Science](https://en.hcmus.edu.vn/), [Vietnam National University, HCMC](https://vnuhcm.edu.vn/). In the Computer Sciences graduated programme, I have fortunately supervised by [Prof. PhD. Le Hoai Bac](https://www.fit.hcmus.edu.vn/~lhbac/) on the topic of **reasoning on temporal knowledge graphs**.
 
-Before joining graduated program,  I earned my Bachelor's Degree in Computer Science, with the supervision from [M.Sc Le Ngoc Thanh](https://www.fit.hcmus.edu.vn/~lnthanh/) on the topic of _knowledge graph completion based on neural networks_.
+Before joining graduated program,  I earned my Bachelor's Degree in Computer Science, with the supervision from [M.Sc Le Ngoc Thanh](https://www.fit.hcmus.edu.vn/~lnthanh/) on the topic of _Knowledge graph completion based on Convolutional Neural Networks_.
 
 
-My primary research focus is on **graph mining**, particularly in the area of knowledge graphs, including challenges related to completion and reasoning. In addition to this, I possess a deep interest in theoretical computer science—covering areas such as _graph theory_ and _distributed theory_—as well as in mathematics, where my passions lie in _mathematical programming, numerical methods, and topics related to probability_.
+My primary research focus is on **graph mining**, particularly in the area of knowledge graphs, including challenges related to completion and reasoning. In addition to this, I possess a deep interest in theoretical computer science—covering areas such as _graph theory_ and _its applications_—as well as in mathematics, where my passions lie in _mathematical programming, numerical methods, and topics related to probability_.
 
 For more contact information: 
 - <a href="../files/CV.pdf" target="_blank" type="application/pdf">Curriculum Vitae </a>; 
