@@ -8,7 +8,7 @@ toc = true
 
 ## Contact information
 
-<img src="/images/avt/115761253_p2_master1200.jpg" alt="avt"
+<img src="/images/avt/avt.jpg" alt="avt"
 style="float:left; width:30%; height:30%; padding-right:10px; border-radius: 50%;">
 
 I currently studying graduated programme in **Computer Sciences** and **Applied Mathematics** (_two distinguished Master programmes_) at the [University of Science](https://en.hcmus.edu.vn/), [Vietnam National University, HCMC](https://vnuhcm.edu.vn/). In the Computer Sciences graduated programme, I have fortunately supervised by [Prof. PhD. Le Hoai Bac](https://www.fit.hcmus.edu.vn/~lhbac/) on the topic of **reasoning on temporal knowledge graphs**.
